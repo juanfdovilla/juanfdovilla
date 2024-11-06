@@ -90,4 +90,4 @@ Ready to create the **Smart City of tomorrow**? Let's connect and discuss how I 
 
 **Juan Fernando Villa Hernández**  
 Public Administration Student | Smart Cities Researcher | Innovator  
-[Email](mailto:juanf.villa@esap.edu.co) | [LinkedIn]([https://linkedin.com/in/juanfernando](https://www.linkedin.com/in/juanfernandovillahernandez/)) | [GitHub]([https://github.com/juanfernando](https://github.com/juanfdovilla))
+[Email](mailto:juanf.villa@esap.edu.co) | [LinkedIn][[https://linkedin.com/in/juanfernando](https://www.linkedin.com/in/juanfernandovillahernandez/)](https://www.linkedin.com/in/juanfernandovillahernandez/) | [GitHub][https://github.com/juanfdovilla/](https://github.com/juanfdovilla))
